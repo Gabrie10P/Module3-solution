@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+}
+
+.contenido{
+    background-color: gray;
+    align-items: center;
+
+}
+
+.text-head{
+    left: 40%;
+}
+
+.text-content{
+    left: 45%;
+}
